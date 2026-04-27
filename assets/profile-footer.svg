@@ -1,0 +1,48 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="footerNeon" x1="60" y1="30" x2="1140" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="0.35" stop-color="#22D3EE"/>
+      <stop offset="0.7" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="footerGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="g"/>
+      <feMerge>
+        <feMergeNode in="g"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="180" rx="24" fill="url(#footerBg)"/>
+
+  <g opacity="0.12">
+    <path d="M0 36H1200" stroke="#22D3EE"/>
+    <path d="M0 72H1200" stroke="#22D3EE"/>
+    <path d="M0 108H1200" stroke="#22D3EE"/>
+    <path d="M0 144H1200" stroke="#22D3EE"/>
+    <path d="M100 0V180" stroke="#7C3AED"/>
+    <path d="M220 0V180" stroke="#7C3AED"/>
+    <path d="M340 0V180" stroke="#7C3AED"/>
+    <path d="M460 0V180" stroke="#7C3AED"/>
+    <path d="M580 0V180" stroke="#7C3AED"/>
+    <path d="M700 0V180" stroke="#7C3AED"/>
+    <path d="M820 0V180" stroke="#7C3AED"/>
+    <path d="M940 0V180" stroke="#7C3AED"/>
+    <path d="M1060 0V180" stroke="#7C3AED"/>
+  </g>
+
+  <g filter="url(#footerGlow)">
+    <path d="M70 122C164 96 268 150 398 94C508 46 650 44 782 88C904 129 1014 106 1130 62" stroke="url(#footerNeon)" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <text x="56" y="74" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">signal maintained // operator online</text>
+  <text x="56" y="108" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="18">building mobile systems with neon taste, clean structure, and cybersec discipline</text>
+  <text x="56" y="138" fill="#22D3EE" font-family="'Fira Code', monospace" font-size="16">~ end_of_profile_render()</text>
+</svg>

@@ -1,0 +1,78 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#01030A"/>
+      <stop offset="0.5" stop-color="#050816"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="90" y1="60" x2="1130" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="0.35" stop-color="#22D3EE"/>
+      <stop offset="0.7" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="g"/>
+      <feMerge>
+        <feMergeNode in="g"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.12">
+    <path d="M0 40H1200" stroke="#22D3EE"/>
+    <path d="M0 80H1200" stroke="#22D3EE"/>
+    <path d="M0 120H1200" stroke="#22D3EE"/>
+    <path d="M0 160H1200" stroke="#22D3EE"/>
+    <path d="M0 200H1200" stroke="#22D3EE"/>
+    <path d="M0 240H1200" stroke="#22D3EE"/>
+    <path d="M0 280H1200" stroke="#22D3EE"/>
+    <path d="M0 320H1200" stroke="#22D3EE"/>
+    <path d="M100 0V390" stroke="#7C3AED"/>
+    <path d="M200 0V390" stroke="#7C3AED"/>
+    <path d="M300 0V390" stroke="#7C3AED"/>
+    <path d="M400 0V390" stroke="#7C3AED"/>
+    <path d="M500 0V390" stroke="#7C3AED"/>
+    <path d="M600 0V390" stroke="#7C3AED"/>
+    <path d="M700 0V390" stroke="#7C3AED"/>
+    <path d="M800 0V390" stroke="#7C3AED"/>
+    <path d="M900 0V390" stroke="#7C3AED"/>
+    <path d="M1000 0V390" stroke="#7C3AED"/>
+    <path d="M1100 0V390" stroke="#7C3AED"/>
+  </g>
+
+  <g opacity="0.18">
+    <rect x="0" y="62" width="1200" height="2" fill="#EC4899"/>
+    <rect x="0" y="198" width="1200" height="2" fill="#14B8A6"/>
+    <rect x="0" y="346" width="1200" height="2" fill="#22D3EE"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M70 302C178 212 298 216 410 128C530 34 670 18 820 114C960 203 1052 184 1140 74" stroke="url(#neon)" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="410" cy="128" r="7" fill="#14B8A6"/>
+    <circle cx="820" cy="114" r="7" fill="#7C3AED"/>
+    <circle cx="1140" cy="74" r="7" fill="#EC4899"/>
+  </g>
+
+  <g>
+    <rect x="52" y="42" width="392" height="146" rx="16" fill="#020617" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="78" y="80" fill="#22D3EE" font-family="'Fira Code', monospace" font-size="20">&gt; boot_profile --mode overdrive</text>
+    <text x="78" y="110" fill="#A78BFA" font-family="'Fira Code', monospace" font-size="16">alias : HomieB-tt</text>
+    <text x="78" y="136" fill="#2DD4BF" font-family="'Fira Code', monospace" font-size="16">class : mobile_engineer</text>
+    <text x="78" y="162" fill="#F472B6" font-family="'Fira Code', monospace" font-size="16">spec  : flutter | swift | systems</text>
+  </g>
+
+  <g>
+    <rect x="854" y="222" width="292" height="96" rx="16" fill="#020617" stroke="#EC4899" stroke-opacity="0.45"/>
+    <text x="882" y="254" fill="#22D3EE" font-family="'Fira Code', monospace" font-size="15">stack = [Flutter, Swift, Rust]</text>
+    <text x="882" y="278" fill="#14B8A6" font-family="'Fira Code', monospace" font-size="15">roots = [networking, cybersec]</text>
+    <text x="882" y="302" fill="#A78BFA" font-family="'Fira Code', monospace" font-size="15">mode  = aggressive // online</text>
+  </g>
+
+  <text x="54" y="282" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Jeremiah Carlton</text>
+  <text x="56" y="322" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="23">Mobile Engineer // Flutter • Swift • iOS • Android</text>
+  <text x="56" y="350" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="18">networking roots • cybersec mindset • neon system energy</text>
+</svg>
