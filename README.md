@@ -137,13 +137,19 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 
 I am currently focused on sharpening product-grade mobile engineering while still exploring systems-adjacent tooling and cross-language ideas.
 
-## // MOD GUIDE
+## // SYSTEM DIAGNOSTICS
 
-- swap featured projects by changing `repo=` values in the pinned card URLs
-- replace placeholder contact links in `CONTACT UPLINKS` with your real LinkedIn, X, email, and portfolio
-- add or remove skill badges inside `TECH ARSENAL`
-- keep the banner + stats if you ever want a simpler version
-- the snake activates after the workflow runs in your live GitHub profile repo
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HomieB-tt&theme=terminal&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+```text
+[ OS         ] Linux / macOS / Android / iOS
+[ SHELL      ] Zsh / Bash / Fish
+[ EDITOR     ] VS Code / Cursor / Neovim
+[ TOOLING    ] Git / Docker / Supabase CLI / Flutter SDK
+[ ENCRYPTION ] OpenSSH / GPG / AES-256 Mindset
+```
 
 <p align="center">
   <img src="./assets/profile-footer.svg" alt="Jeremiah Carlton cyberpunk footer" width="100%" />
