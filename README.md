@@ -87,13 +87,21 @@ My networking and cybersecurity roots still shape how I approach structure, resi
   </a>
 </div>
 
+## // VISUAL NODES [HOSTELHOP]
+
 <div align="center">
-  <a href="https://github.com/HomieB-tt/Whust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=Whust&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="Whust" />
-  </a>
-  <a href="https://github.com/HomieB-tt/BlueChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=BlueChat&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="BlueChat" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_1.png" alt="HostelHop Preview" width="100%" />
+        <p align="center"><i>Mobile Experience: Flutter & Supabase</i></p>
+      </td>
+      <td width="50%">
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_2.png" alt="HostelHop Admin" width="100%" />
+        <p align="center"><i>Admin Control: React & Vite</i></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## // CONTRIBUTION TRACE
@@ -106,10 +114,9 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 
 <div align="center">
   <a href="https://github.com/HomieB-tt"><img src="https://img.shields.io/badge/GitHub-@HomieB--tt-050816?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/ADD-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-ADD%20YOUR%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" /></a>
-  <a href="https://x.com/ADD-YOUR-HANDLE"><img src="https://img.shields.io/badge/X-ADD%20YOUR%20HANDLE-111827?style=for-the-badge&logo=x&logoColor=white" alt="X placeholder" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email%40example.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" /></a>
-  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-ADD%20YOUR%20SITE-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio placeholder" /></a>
+  <a href="https://www.linkedin.com/in/jeremiah-carlton-21b4962a7/"><img src="https://img.shields.io/badge/LinkedIn-Jeremiah%20Carlton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Jerry_Lander17"><img src="https://img.shields.io/badge/X-@Jerry__Lander17-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:montanajeremy160@outlook.com"><img src="https://img.shields.io/badge/Email-montanajeremy160%40outlook.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ## // CURRENT SIGNAL
