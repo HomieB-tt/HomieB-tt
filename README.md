@@ -85,6 +85,12 @@ My networking and cybersecurity roots still shape how I approach structure, resi
   <a href="https://github.com/HomieB-tt/Chatter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=Chatter&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="Chatter" />
   </a>
+  <a href="https://github.com/HomieB-tt/hostelhop_mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=HostelHop&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop" />
+  </a>
+  <a href="https://github.com/HomieB-tt/hostelhop_admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=HostelHop&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop" />
+  </a>
 </div>
 
 ## // VISUAL NODES [HOSTELHOP]
