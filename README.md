@@ -79,26 +79,36 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 ## // FEATURED NODES
 
 <div align="center">
-  <a href="https://github.com/HomieB-tt/HostelHop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=HostelHop&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop" />
+  <a href="https://github.com/HomieB-tt/hostelhop_mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=hostelhop_mobile&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop - Mobile" />
   </a>
   <a href="https://github.com/HomieB-tt/Chatter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=Chatter&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="Chatter" />
   </a>
+  <a href="https://github.com/HomieB-tt/Whust">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=Whust&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="Whust" />
+  </a>
+  <a href="https://github.com/HomieB-tt/hostelhop_admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=hostelhop_admin&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop - Admin" />
+  </a>
 </div>
 
-## // VISUAL NODES [HOSTELHOP]
+## // VISUAL NODES [HOSTELHOP(WEB + MOBILE)]
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_1.png" alt="HostelHop Preview" width="100%" />
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_1.png" alt="HostelHop Mobile" width="100%" />
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_1.png" alt="HostelHop Mobile" width="100%" />
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_1.png" alt="HostelHop Mobile" width="100%" />
         <p align="center"><i>Mobile Experience: Flutter & Supabase</i></p>
       </td>
       <td width="50%">
         <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_2.png" alt="HostelHop Admin" width="100%" />
-        <p align="center"><i>Admin Control: React & Vite</i></p>
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_2.png" alt="HostelHop Admin" width="100%" />
+        <img src="https://raw.githubusercontent.com/HomieB-tt/HostelHop/main/docs/screenshots/preview_2.png" alt="HostelHop Admin" width="100%" />
+        <p align="center"><i>Admin Control: React + TypeScript & Vite</i></p>
       </td>
     </tr>
   </table>
