@@ -98,13 +98,13 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="100%">
         <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/mobile/Screenshot_20260422_053834.jpeg" alt="HostelHop Mobile" width="100%" />
         <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/mobile/Screenshot_20260422_053855.jpeg" alt="HostelHop Mobile" width="100%" />
         <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/mobile/Screenshot_20260422_053953.jpeg" alt="HostelHop Mobile" width="100%" />
         <p align="center"><i>Mobile Experience: Flutter & Supabase</i></p>
       </td>
-      <td width="50%">
+      <td width="100%">
         <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/admin/Screenshot_20260506_225715.jpeg" alt="HostelHop Admin" width="100%" />
         <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/admin/Screenshot_20260506_225648.jpeg" alt="HostelHop Admin" width="100%" />
         <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/admin/Screenshot_20260506_225621.jpeg" alt="HostelHop Admin" width="100%" />
