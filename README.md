@@ -106,7 +106,7 @@ My networking and cybersecurity roots still shape how I approach structure, resi
         <p align="center"><i>Mobile Experience: Flutter & Supabase</i></p>
       </td>
       <td width="50%" style="white-space: no-wrap;">
-        <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/admin/Screenshot_20260506_225715.jpeg" alt="HostelHop Admin" width="100%" />
+        <img src="https://github.com/HomieB-tt/hostelhop_admin/blob/main/screenshots/admin/Screenshot_20260506_225715.jpeg" alt="HostelHop Admin" width="100%" />
         <p align="center"><i>Admin Control: React + TypeScript & Vite</i></p>
       </td>
     </tr>
