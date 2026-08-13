@@ -1,22 +1,23 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" alt="Jeremiah Carlton full cyberpunk hacker banner" width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Jeremiah Carlton Cyberpunk Hacker Banner" width="100%" />
 
   # JEREMIAH CARLTON
 
   `MOBILE ENGINEER // FLUTTER • IOS • ANDROID // SYSTEMS-MINDED // NET+CYBER ROOTS`
 
   <p>
-    <a href="https://github.com/HomieB-tt"><img src="https://img.shields.io/badge/GitHub-HomieB--tt-050816?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub" /></a>
+    <a href="https://github.com/HomieB-tt"><img src="https://img.shields.io/badge/GitHub-HomieB--tt-050816?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+    <a href="https://homieb-tt.github.io/homieb-tt-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
     <img src="https://img.shields.io/badge/STATUS-ONLINE-14b8a6?style=for-the-badge" alt="status" />
-    <img src="https://img.shields.io/badge/MODE-CYBERPUNK%20OVERDRIVE-a855f7?style=for-the-badge" alt="mode" />
-    <img src="https://img.shields.io/badge/BUILD-MOBILE%20SYSTEMS-0ea5e9?style=for-the-badge" alt="build" />
+    <img src="https://img.shields.io/badge/MODE-CYBERPUNK%20OVERDRIVE-8b5cf6?style=for-the-badge" alt="mode" />
+    <img src="https://img.shields.io/badge/BUILD-MOBILE%20SYSTEMS-ec4899?style=for-the-badge" alt="build" />
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=HomieB-tt&style=for-the-badge&color=a855f7" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=HomieB-tt&style=for-the-badge&color=8b5cf6" alt="Profile views" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=550&color=22D3EE&center=true&vCenter=true&multiline=true&width=1080&height=118&lines=%3E+initializing+operator%3A+jeremiah_carlton;%3E+rendering+flutter+and+swift+interfaces;%3E+networking+and+cybersecurity+roots+still+active;%3E+rust+python+dart+ruby+loaded+into+memory;%3E+mission%3A+ship+clean+fast+resilient+mobile+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=550&color=22D3EE&center=true&vCenter=true&multiline=true&width=1080&height=118&lines=%3E+initializing+operator%3A+jeremiah_carlton;%3E+rendering+flutter+and+swift+interfaces;%3E+networking+and+cybersecurity+roots+still+active;%3E+rust+python+dart+ruby+loaded+into+memory;%3E+mission%3A+ship+clean+fast+resilient+mobile+systems" alt="Typing SVG Header" />
 </div>
 
 <p align="center">
@@ -39,7 +40,9 @@ I build mobile products with a systems-first mindset.
 I care about fast interfaces, maintainable internals, and software that stays composed under pressure.
 My networking and cybersecurity roots still shape how I approach structure, resilience, and engineering discipline.
 
-> WARNING: profile aesthetics may contain elevated levels of teal, violet, neon, terminal syntax, and overclocked mobile-dev energy.
+> WARNING: Profile aesthetics contain elevated levels of teal, cyan, violet, neon terminal syntax, and overclocked mobile-dev energy.
+
+---
 
 ## // TECH ARSENAL
 
@@ -57,6 +60,13 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 ![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=ffffff)
 ![Ruby](https://img.shields.io/badge/Ruby-111827?style=for-the-badge&logo=ruby&logoColor=f43f5e)
 
+### INFRASTRUCTURE & TOOLING
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ### SYSTEM SIGNALS
 ![Networking](https://img.shields.io/badge/Networking-0ea5e9?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-7c3aed?style=for-the-badge)
@@ -65,16 +75,20 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 
 </div>
 
+---
+
 ## // LIVE TELEMETRY
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&bg_color=00000000&ring_color=ec4899" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&bg_color=00000000&ring_color=ec4899" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomieB-tt&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=00000000" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=00000000&stroke=7c3aed&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=00000000&stroke=8b5cf6&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak" />
 </div>
+
+---
 
 ## // FEATURED NODES
 
@@ -96,16 +110,18 @@ My networking and cybersecurity roots still shape how I approach structure, resi
   </a>
 </div>
 
+---
+
 ## // VISUAL NODES [HOSTELHOP(WEB + MOBILE)]
 
 <div align="center">
   <table>
     <tr>
-      <td width="25%" style="white-space: no-wrap;">
-        <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/mobile/Screenshot_20260422_053834.jpeg" alt="HostelHop Mobile" width="50%" />
+      <td width="50%" align="center">
+        <img src="https://github.com/HomieB-tt/hostelhop_mobile/blob/main/screenshots/mobile/Screenshot_20260422_053834.jpeg" alt="HostelHop Mobile" width="70%" />
         <p align="center"><i>Mobile Experience: Flutter & Supabase</i></p>
       </td>
-      <td width="50%" style="white-space: no-wrap;">
+      <td width="50%" align="center">
         <img src="https://github.com/HomieB-tt/hostelhop_admin/blob/main/screenshots/admin/Screenshot_20260506_225715.jpeg" alt="HostelHop Admin" width="100%" />
         <p align="center"><i>Admin Control: React + TypeScript & Vite</i></p>
       </td>
@@ -113,38 +129,49 @@ My networking and cybersecurity roots still shape how I approach structure, resi
   </table>
 </div>
 
+---
+
 ## // CONTRIBUTION TRACE
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/HomieB-tt/HomieB-tt/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </div>
 
+---
+
 ## // CONTACT UPLINKS
 
 <div align="center">
   <a href="https://github.com/HomieB-tt"><img src="https://img.shields.io/badge/GitHub-@HomieB--tt-050816?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub profile" /></a>
+  <a href="https://homieb-tt.github.io/homieb-tt-portfolio/"><img src="https://img.shields.io/badge/Portfolio-homieb--tt.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Site" /></a>
   <a href="https://www.linkedin.com/in/jeremiah-carlton-21b4962a7/"><img src="https://img.shields.io/badge/LinkedIn-Jeremiah%20Carlton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Jerry_Lander17"><img src="https://img.shields.io/badge/X-@Jerry__Lander17-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:montanajeremy160@outlook.com"><img src="https://img.shields.io/badge/Email-montanajeremy160%40outlook.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:montanajeremy160@outlook.com"><img src="https://img.shields.io/badge/Email-montanajeremy160%40outlook.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
+---
 
 ## // CURRENT SIGNAL
 
-- shipping mobile experiences with Flutter and Swift
-- pushing deeper into product-grade iOS and Android engineering
-- experimenting with Rust and Python for systems-adjacent tooling
-- carrying networking and cybersecurity discipline into every build
+- Shipping mobile experiences with Flutter and Swift
+- Pushing deeper into product-grade iOS and Android engineering
+- Experimenting with Rust and Python for systems-adjacent tooling
+- Carrying networking and cybersecurity discipline into every build
+
+---
 
 ## // CURRENTLY BUILDING
 
 ```text
-[ 01 ] HostelHop          -> student accommodation / booking experience in Flutter
-[ 02 ] Mobile systems     -> cleaner iOS + Android engineering patterns
-[ 03 ] Cross-stack range  -> Rust, Python, Dart, and Ruby exploration
-[ 04 ] Dev identity       -> stronger blend of mobile engineering + cybersec roots
+[ 01 ] HostelHop          -> Student accommodation & booking experience in Flutter
+[ 02 ] Mobile Systems     -> Cleaner iOS + Android engineering patterns
+[ 03 ] Cross-Stack Range  -> Rust, Python, Dart, and Ruby exploration
+[ 04 ] Dev Identity       -> Stronger blend of mobile engineering + cybersec roots
 ```
 
-I am currently focused on sharpening product-grade mobile engineering while still exploring systems-adjacent tooling and cross-language ideas.
+I am currently focused on sharpening product-grade mobile engineering while exploring systems-adjacent tooling and cross-language ideas.
+
+---
 
 ## // SYSTEM DIAGNOSTICS
 
@@ -161,5 +188,5 @@ I am currently focused on sharpening product-grade mobile engineering while stil
 ```
 
 <p align="center">
-  <img src="./assets/profile-footer.svg" alt="Jeremiah Carlton cyberpunk footer" width="100%" />
+  <img src="./assets/profile-footer.svg" alt="Jeremiah Carlton Cyberpunk Footer" width="100%" />
 </p>
