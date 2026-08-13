@@ -6,11 +6,17 @@
   `MOBILE ENGINEER // FLUTTER • IOS • ANDROID // SYSTEMS-MINDED // NET+CYBER ROOTS`
 
   <p>
+    <a href="#-boot-log"><img src="https://img.shields.io/badge/NAV-BOOT--LOG-0ea5e9?style=for-the-badge" alt="Boot Log Nav" /></a>
+    <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/NAV-ARSENAL-14b8a6?style=for-the-badge" alt="Arsenal Nav" /></a>
+    <a href="#-featured-nodes"><img src="https://img.shields.io/badge/NAV-PROJECTS-8b5cf6?style=for-the-badge" alt="Projects Nav" /></a>
+    <a href="#-contact-uplinks"><img src="https://img.shields.io/badge/NAV-CONTACT-ec4899?style=for-the-badge" alt="Contact Nav" /></a>
+  </p>
+
+  <p>
     <a href="https://github.com/HomieB-tt"><img src="https://img.shields.io/badge/GitHub-HomieB--tt-050816?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
-    <a href="https://homieb-tt.github.io/homieb-tt-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://homieb-tt.github.io/homieb-tt-portfolio/"><img src="https://img.shields.io/badge/Portfolio-homieb--tt.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
     <img src="https://img.shields.io/badge/STATUS-ONLINE-14b8a6?style=for-the-badge" alt="status" />
     <img src="https://img.shields.io/badge/MODE-CYBERPUNK%20OVERDRIVE-8b5cf6?style=for-the-badge" alt="mode" />
-    <img src="https://img.shields.io/badge/BUILD-MOBILE%20SYSTEMS-ec4899?style=for-the-badge" alt="build" />
   </p>
 
   <p>
@@ -24,6 +30,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,20,24,30&section=header&reversal=false" width="100%" />
 </p>
 
+---
+
+<a id="-boot-log"></a>
 ## // BOOT LOG
 
 ```text
@@ -44,6 +53,7 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 
 ---
 
+<a id="-tech-arsenal"></a>
 ## // TECH ARSENAL
 
 <div align="center">
@@ -75,39 +85,88 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 
 </div>
 
+<details>
+<summary><b>⚡ [CLICK TO EXPAND] Interactive Systems Breakdown & Architecture Stack</b></summary>
+
+<br>
+
+| Core Layer | Technologies & Tools | Engineering Philosophy |
+| :--- | :--- | :--- |
+| **Mobile Client** | Flutter, Dart, Swift, SwiftUI, iOS, Android SDK | Smooth 60/120fps UI, declarative state, clean architecture |
+| **Backend & Data** | Supabase, Firebase, REST APIs, PostgreSQL | Real-time listeners, structured schemas, edge functions |
+| **Systems & Tooling** | Python, Rust, Ruby, Shell/Zsh, Docker, Git | High-throughput CLI tools, script automation, containerization |
+| **Security & Net** | Networking protocols, App Security, SSH/GPG, OWASP | Secure payload handling, encrypted communications, zero-trust |
+
+</details>
+
 ---
 
+<a id="-live-telemetry"></a>
 ## // LIVE TELEMETRY
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&bg_color=00000000&ring_color=ec4899" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomieB-tt&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=00000000" alt="Top languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&bg_color=050816&border_color=22d3ee&cache_seconds=86400" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomieB-tt&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=050816&border_color=22d3ee&cache_seconds=86400" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=00000000&stroke=8b5cf6&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=050816&stroke=8b5cf6&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak" />
 </div>
 
 ---
 
+<a id="-featured-nodes"></a>
 ## // FEATURED NODES
 
-<div align="center" style="display: inline;">
-  <a href="https://github.com/HomieB-tt/hostelhop_mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=hostelhop_mobile&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop - Mobile" />
-  </a>
-  <br>
-  <a href="https://github.com/HomieB-tt/Chatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=Chatter&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="Chatter" />
-  </a>
-  <br>
-  <a href="https://github.com/HomieB-tt/Whust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=Whust&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="Whust" />
-  </a>
-  <br>
-  <a href="https://github.com/HomieB-tt/hostelhop_admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomieB-tt&repo=hostelhop_admin&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=ec4899&bg_color=00000000" alt="HostelHop - Admin" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" fill="#050816" stroke="#22d3ee">
+        <h3 align="center">
+          <a href="https://github.com/HomieB-tt/hostelhop_mobile">📱 HostelHop - Mobile</a>
+        </h3>
+        <p align="center">Student accommodation & booking experience built with Flutter & Supabase.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/HomieB-tt/Chatter">💬 Chatter</a>
+        </h3>
+        <p align="center">Native iOS messaging application engineered with Swift & SwiftUI.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/iOS-020617?style=flat-square&logo=apple&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/HomieB-tt/Whust">🦀 Whust</a>
+        </h3>
+        <p align="center">High-performance systems utility & engine written in Rust.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=white" />
+          <img src="https://img.shields.io/badge/Systems-0ea5e9?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/HomieB-tt/hostelhop_admin">🖥️ HostelHop - Admin</a>
+        </h3>
+        <p align="center">Admin management portal built with React, TypeScript & Vite.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -139,6 +198,22 @@ My networking and cybersecurity roots still shape how I approach structure, resi
 
 ---
 
+<details>
+<summary><b>🎵 [NOW_PLAYING] Cyberpunk & Coding Audio Protocol</b></summary>
+
+<br>
+
+```text
+[ TRACK  ] Cyberpunk 2077 // Hyper - Spoiler
+[ STATUS ] Loop active :: 128 BPM :: Deep Focus State
+[ AUDIO  ] Synthwave / Cyberpunk Workstation Mix
+```
+
+</details>
+
+---
+
+<a id="-contact-uplinks"></a>
 ## // CONTACT UPLINKS
 
 <div align="center">
