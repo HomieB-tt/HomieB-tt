@@ -6,10 +6,10 @@
   `MOBILE ENGINEER // FLUTTER • IOS • ANDROID // SYSTEMS-MINDED // NET+CYBER ROOTS`
 
   <p>
-    <a href="#-boot-log"><img src="https://img.shields.io/badge/NAV-BOOT--LOG-0ea5e9?style=for-the-badge" alt="Boot Log Nav" /></a>
-    <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/NAV-ARSENAL-14b8a6?style=for-the-badge" alt="Arsenal Nav" /></a>
-    <a href="#-featured-nodes"><img src="https://img.shields.io/badge/NAV-PROJECTS-8b5cf6?style=for-the-badge" alt="Projects Nav" /></a>
-    <a href="#-contact-uplinks"><img src="https://img.shields.io/badge/NAV-CONTACT-ec4899?style=for-the-badge" alt="Contact Nav" /></a>
+    <a href="#-boot-log"><img src="https://img.shields.io/badge/⚡-BOOT%20LOG-0ea5e9?style=for-the-badge" alt="Boot Log" /></a>
+    <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/🛠️-TECH%20ARSENAL-14b8a6?style=for-the-badge" alt="Tech Arsenal" /></a>
+    <a href="#-featured-nodes"><img src="https://img.shields.io/badge/🚀-FEATURED%20NODES-8b5cf6?style=for-the-badge" alt="Featured Nodes" /></a>
+    <a href="#-contact-uplinks"><img src="https://img.shields.io/badge/📬-CONTACT%20UPLINKS-ec4899?style=for-the-badge" alt="Contact Uplinks" /></a>
   </p>
 
   <p>
