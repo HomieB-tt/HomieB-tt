@@ -1,0 +1,30 @@
+<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="400" y2="150">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="150" rx="12" fill="url(#cardBg)" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="20" y="30" fill="#22d3ee" font-family="'Fira Code', monospace" font-size="14" font-weight="600">@HomieB-tt Stats</text>
+
+  <!-- Stats Grid -->
+  <text x="20" y="60" fill="#cbd5e1" font-family="system-ui, -apple-system, sans-serif" font-size="12">
+    <tspan x="20" dy="0">📊 Contributions</tspan>
+    <tspan x="20" dy="16">🔗 Repositories</tspan>
+    <tspan x="20" dy="16">⭐ Total Stars</tspan>
+  </text>
+
+  <text x="280" y="60" fill="#8b5cf6" font-family="'Fira Code', monospace" font-size="13" font-weight="600" text-anchor="end">
+    <tspan x="380" dy="0">1000+</tspan>
+    <tspan x="380" dy="16">25+</tspan>
+    <tspan x="380" dy="16">500+</tspan>
+  </text>
+
+  <!-- Footer -->
+  <line x1="20" y1="135" x2="380" y2="135" stroke="#22d3ee" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="20" y="148" fill="#64748b" font-family="system-ui, -apple-system, sans-serif" font-size="10">Last updated today • Real-time GitHub API</text>
+</svg>

@@ -33,13 +33,35 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <style>
+      @keyframes glow-pulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.6; }
+      }
+      @keyframes slide-right {
+        from { transform: translateX(-100px); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+      }
+      @keyframes float-up {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes neon-glow {
+        0%, 100% { filter: drop-shadow(0 0 10px rgba(34, 211, 238, 0.3)); }
+        50% { filter: drop-shadow(0 0 20px rgba(34, 211, 238, 0.6)); }
+      }
+      .grid-pulse { animation: glow-pulse 3s ease-in-out infinite; }
+      .card-slide { animation: slide-right 0.8s ease-out; }
+      .hero-float { animation: float-up 2.5s ease-in-out infinite; }
+      .wave-glow { animation: neon-glow 2s ease-in-out infinite; }
+    </style>
   </defs>
 
   <!-- Background Base -->
   <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
 
   <!-- Subtle Cyber Grid -->
-  <g opacity="0.10">
+  <g opacity="0.10" class="grid-pulse">
     <path d="M0 40H1200 M0 80H1200 M0 120H1200 M0 160H1200 M0 200H1200 M0 240H1200 M0 280H1200 M0 320H1200 M0 360H1200" stroke="#22D3EE" stroke-width="1"/>
     <path d="M80 0V390 M160 0V390 M240 0V390 M320 0V390 M400 0V390 M480 0V390 M560 0V390 M640 0V390 M720 0V390 M800 0V390 M880 0V390 M960 0V390 M1040 0V390 M1120 0V390" stroke="#8B5CF6" stroke-width="1"/>
   </g>
@@ -52,15 +74,15 @@
   </g>
 
   <!-- Glowing Cyberwave Vector -->
-  <g filter="url(#glow)">
-    <path d="M60 295C170 205 290 220 410 130C530 40 670 25 820 120C960 210 1050 190 1140 70" stroke="url(#neon)" stroke-width="4.5" stroke-linecap="round"/>
-    <circle cx="410" cy="130" r="6" fill="#14B8A6"/>
-    <circle cx="820" cy="120" r="6" fill="#8B5CF6"/>
-    <circle cx="1140" cy="70" r="6" fill="#EC4899"/>
+  <g filter="url(#glow)" class="wave-glow">
+    <path d="M60 295C170 205 290 220 410 130C530 40 670 25 820 120C960 210 1050 190 1140 70" stroke="url(#neon)" stroke-width="4.5" stroke-linecap="round" stroke-dasharray="1200" stroke-dashoffset="0"/>
+    <circle cx="410" cy="130" r="6" fill="#14B8A6" opacity="0.8"/>
+    <circle cx="820" cy="120" r="6" fill="#8B5CF6" opacity="0.8"/>
+    <circle cx="1140" cy="70" r="6" fill="#EC4899" opacity="0.8"/>
   </g>
 
   <!-- Left Terminal Panel -->
-  <g transform="translate(50, 36)">
+  <g transform="translate(50, 36)" class="card-slide">
     <rect width="410" height="152" rx="14" fill="url(#cardGrad1)" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.5"/>
     <path d="M0 14C0 6.26801 6.26801 0 14 0H396C403.732 0 410 6.26801 410 14V32H0V14Z" fill="#070D24" fill-opacity="0.8"/>
     <circle cx="20" cy="16" r="5" fill="#EF4444"/>
@@ -75,7 +97,7 @@
   </g>
 
   <!-- Right Panel -->
-  <g transform="translate(810, 220)">
+  <g transform="translate(810, 220)" class="hero-float">
     <rect width="340" height="116" rx="14" fill="url(#cardGrad2)" stroke="#EC4899" stroke-opacity="0.4" stroke-width="1.5"/>
     <path d="M0 14C0 6.26801 6.26801 0 14 0H326C333.732 0 340 6.26801 340 14V30H0V14Z" fill="#12071F" fill-opacity="0.8"/>
     <text x="16" y="20" fill="#EC4899" font-family="'Fira Code', monospace" font-size="11" font-weight="600">// SYSTEM ARSENAL</text>
@@ -88,7 +110,14 @@
   <!-- Main Hero Typography -->
   <g transform="translate(52, 276)">
     <text x="0" y="32" fill="#F8FAFC" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.02em">Jeremiah Carlton</text>
-    <text x="2" y="66" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="21" font-weight="600">Mobile Engineer // Flutter • Swift • iOS • Android</text>
-    <text x="2" y="92" fill="#94A3B8" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="16">networking roots • cybersec mindset • neon system energy</text>
+    <text x="2" y="66" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="21" font-weight="600">Mobile Engineer • Flutter • Swift • iOS • Android</text>
+    <text x="2" y="92" fill="#94A3B8" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="16">Cybersecurity roots • Clean systems • Neon energy</text>
+  </g>
+
+  <!-- Decorative Elements (Responsive) -->
+  <g opacity="0.15">
+    <circle cx="100" cy="80" r="3" fill="#22D3EE"/>
+    <circle cx="1100" cy="300" r="2.5" fill="#8B5CF6"/>
+    <circle cx="300" cy="360" r="2" fill="#14B8A6"/>
   </g>
 </svg>

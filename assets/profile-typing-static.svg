@@ -1,0 +1,18 @@
+<svg width="900" height="60" viewBox="0 0 900 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="typingBg" x1="0" y1="0" x2="900" y2="60">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="60" rx="12" fill="url(#typingBg)" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- Terminal Prompt -->
+  <text x="30" y="38" fill="#22d3ee" font-family="'Fira Code', monospace" font-size="16" font-weight="600">
+    <tspan>~ <tspan fill="#8b5cf6">$</tspan> Mobile Engineer • Flutter • Swift • Dart • Rust • Building clean fast resilient systems</tspan>
+  </text>
+
+  <!-- Cursor (static) -->
+  <rect x="880" y="22" width="2" height="20" fill="#22d3ee" opacity="0.7"/>
+</svg>

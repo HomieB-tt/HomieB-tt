@@ -18,13 +18,34 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <style>
+      @keyframes pulse-glow {
+        0%, 100% { opacity: 0.25; }
+        50% { opacity: 0.5; }
+      }
+      @keyframes wave-flow {
+        0% { stroke-dashoffset: 1200; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes slide-in {
+        from { transform: translateX(-50px); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+      }
+      @keyframes text-glow {
+        0%, 100% { filter: drop-shadow(0 0 5px rgba(34, 211, 238, 0.2)); }
+        50% { filter: drop-shadow(0 0 10px rgba(34, 211, 238, 0.5)); }
+      }
+      .footer-grid { animation: pulse-glow 4s ease-in-out infinite; }
+      .footer-wave { animation: wave-flow 8s linear infinite; }
+      .footer-text { animation: text-glow 3s ease-in-out infinite; }
+    </style>
   </defs>
 
   <!-- Background Base -->
   <rect width="1200" height="180" rx="20" fill="url(#footerBg)"/>
 
   <!-- Cyber Grid -->
-  <g opacity="0.10">
+  <g opacity="0.10" class="footer-grid">
     <path d="M0 36H1200 M0 72H1200 M0 108H1200 M0 144H1200" stroke="#22D3EE" stroke-width="1"/>
     <path d="M100 0V180 M220 0V180 M340 0V180 M460 0V180 M580 0V180 M700 0V180 M820 0V180 M940 0V180 M1060 0V180" stroke="#8B5CF6" stroke-width="1"/>
   </g>
@@ -34,15 +55,34 @@
     <rect x="0" y="2" width="1200" height="2" fill="url(#footerNeon)"/>
   </g>
 
-  <!-- Glowing Wave Path -->
-  <g filter="url(#footerGlow)">
-    <path d="M60 130C160 100 270 155 400 95C510 45 650 45 780 90C900 130 1010 110 1140 65" stroke="url(#footerNeon)" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Glowing Wave Path with Animation -->
+  <g filter="url(#footerGlow)" class="footer-wave">
+    <path d="M60 130C160 100 270 155 400 95C510 45 650 45 780 90C900 130 1010 110 1140 65" 
+          stroke="url(#footerNeon)" stroke-width="3.5" stroke-linecap="round"
+          stroke-dasharray="1200" stroke-dashoffset="0"/>
+  </g>
+
+  <!-- Accent Dots -->
+  <g opacity="0.4">
+    <circle cx="100" cy="70" r="2.5" fill="#22D3EE"/>
+    <circle cx="400" cy="80" r="2" fill="#8B5CF6"/>
+    <circle cx="800" cy="90" r="2.5" fill="#EC4899"/>
+    <circle cx="1100" cy="75" r="2" fill="#14B8A6"/>
   </g>
 
   <!-- Footer Content -->
-  <g transform="translate(50, 42)">
-    <text x="0" y="32" fill="#F8FAFC" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="26" font-weight="700">signal maintained // operator online</text>
+  <g transform="translate(50, 42)" class="footer-text">
+    <text x="0" y="32" fill="#F8FAFC" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="26" font-weight="700">signal maintained • operator online</text>
     <text x="0" y="64" fill="#94A3B8" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="16">building mobile systems with neon taste, clean structure, and cybersec discipline</text>
-    <text x="0" y="94" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="15" font-weight="600">~ end_of_profile_render()</text>
+    <text x="0" y="94" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="15" font-weight="600">~ end_of_profile_render() ⚡</text>
+  </g>
+
+  <!-- Status Indicator -->
+  <g transform="translate(1050, 20)">
+    <circle cx="10" cy="10" r="8" fill="#050816" stroke="#22D3EE" stroke-width="1.5" opacity="0.6"/>
+    <circle cx="10" cy="10" r="5" fill="#22D3EE">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
   </g>
 </svg>
