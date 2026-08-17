@@ -7,7 +7,7 @@
   </p>
 
   <!-- SOCIAL LINKS & BADGES -->
-  <p style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
+  <p align="center">
     <a href="https://github.com/HomieB-tt" title="GitHub Profile">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-HomieB--tt-22d3ee?style=flat-square&logo=github&logoColor=050816" />
     </a>
@@ -26,10 +26,7 @@
   </p>
 
   <!-- DYNAMIC HEADER -->
-  <picture>
-    <source media="(prefers-reduced-motion: no-preference)" srcset="./assets/profile-typing.svg">
-    <img src="./assets/profile-typing-static.svg" alt="Mobile Engineer • Flutter • Swift • Dart • Rust • Building clean fast resilient systems" />
-  </picture>
+  <img src="./assets/profile-typing-static.svg" alt="Mobile Engineer • Flutter • Swift • Dart • Rust • Building clean fast resilient systems" />
 </div>
 
 ---
@@ -40,22 +37,16 @@
 
 ### GitHub Activity
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <tr>
-    <td width="50%" align="center" style="padding: 10px;">
+    <td width="50%" align="center">
       <a href="https://github.com/HomieB-tt">
-        <picture>
-          <source media="(prefers-reduced-motion: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&bg_color=050816&hide_title=true&cache_seconds=86400">
           <img height="150" src="./assets/stats-fallback-github.svg" alt="GitHub stats" />
-        </picture>
       </a>
     </td>
-    <td width="50%" align="center" style="padding: 10px;">
+    <td width="50%" align="center">
       <a href="https://github.com/HomieB-tt">
-        <picture>
-          <source media="(prefers-reduced-motion: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HomieB-tt&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=050816&hide_title=true&cache_seconds=86400">
           <img height="150" src="./assets/stats-fallback-languages.svg" alt="Top languages" />
-        </picture>
       </a>
     </td>
   </tr>
@@ -63,11 +54,8 @@
 
 ### Contribution Streak
 
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <picture>
-    <source media="(prefers-reduced-motion: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=050816&stroke=8b5cf6&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0">
-    <img height="150" src="./assets/stats-fallback-streak.svg" alt="GitHub streak" />
-  </picture>
+<div align="center">
+  <img height="150" src="./assets/stats-fallback-streak.svg" alt="GitHub streak" />
 </div>
 
 </div>
@@ -139,20 +127,20 @@ Automation, version control, and development environment optimization.
 
 ### Featured Implementations
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+<table>
   <tr>
-    <td width="50%" align="center" style="padding: 15px; border: 1px solid #22d3ee; border-radius: 8px; background: #050816;">
-      <a href="https://github.com/HomieB-tt/hostelhop_mobile" style="text-decoration: none;">
-        <strong style="color: #22d3ee;">📱 HostelHop Mobile</strong>
-        <p style="color: #cbd5e1; margin: 8px 0;">Flutter + Supabase</p>
-        <p style="color: #94a3b8; font-size: 13px;">Cross-platform booking platform with real-time updates</p>
+    <td width="50%" align="center" style="padding: 15px;">
+      <a href="https://github.com/HomieB-tt/hostelhop_mobile">
+        <strong>📱 HostelHop Mobile</strong>
+        <p>Flutter + Supabase</p>
+        <p>Cross-platform booking platform with real-time updates</p>
       </a>
     </td>
-    <td width="50%" align="center" style="padding: 15px; border: 1px solid #8b5cf6; border-radius: 8px; background: #050816;">
-      <a href="https://github.com/HomieB-tt/hostelhop_admin" style="text-decoration: none;">
-        <strong style="color: #8b5cf6;">🖥️ HostelHop Admin</strong>
-        <p style="color: #cbd5e1; margin: 8px 0;">React + TypeScript + Vite</p>
-        <p style="color: #94a3b8; font-size: 13px;">Modern dashboard for platform administration</p>
+    <td width="50%" align="center" style="padding: 15px;">
+      <a href="https://github.com/HomieB-tt/hostelhop_admin">
+        <strong>🖥️ HostelHop Admin</strong>
+        <p>React + TypeScript + Vite</p>
+        <p>Modern dashboard for platform administration</p>
       </a>
     </td>
   </tr>
@@ -198,10 +186,7 @@ Automation, version control, and development environment optimization.
 ## 🔥 CONTRIBUTION GRID
 
 <div align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/HomieB-tt/HomieB-tt/output/github-contribution-grid-snake-dark.svg">
-    <img src="./assets/contribution-grid-static.svg" alt="Contribution activity" width="100%" />
-  </picture>
+  <img src="./assets/contribution-grid-static.svg" alt="Contribution activity" width="100%" />
 </div>
 
 ---
