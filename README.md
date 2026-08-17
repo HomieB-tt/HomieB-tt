@@ -41,12 +41,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/HomieB-tt">
-          <img height="150" src="./assets/stats-fallback-github.svg" alt="GitHub stats" />
+          <img height="150" src="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&bg_color=050816&hide_title=true&cache_seconds=86400" alt="GitHub stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/HomieB-tt">
-          <img height="150" src="./assets/stats-fallback-languages.svg" alt="Top languages" />
+          <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomieB-tt&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=050816&hide_title=true&cache_seconds=86400" alt="Top languages" />
       </a>
     </td>
   </tr>
@@ -55,7 +55,7 @@
 ### Contribution Streak
 
 <div align="center">
-  <img height="150" src="./assets/stats-fallback-streak.svg" alt="GitHub streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=050816&stroke=8b5cf6&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub streak" />
 </div>
 
 </div>
@@ -186,7 +186,7 @@ Automation, version control, and development environment optimization.
 ## 🔥 CONTRIBUTION GRID
 
 <div align="center">
-  <img src="./assets/contribution-grid-static.svg" alt="Contribution activity" width="100%" />
+  <img src="https://raw.githubusercontent.com/HomieB-tt/HomieB-tt/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" />
 </div>
 
 ---
