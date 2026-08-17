@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" alt="Jeremiah Carlton - Mobile Engineer" width="100%" />
+  <img src="./assets/profile-hero.png" alt="Jeremiah Carlton - Mobile Engineer" width="100%" />
 
   <h1>⚡ JEREMIAH CARLTON</h1>
   <p>
@@ -41,12 +41,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/HomieB-tt">
-          <img height="150" src="https://github-readme-stats.vercel.app/api?username=HomieB-tt&show_icons=true&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6&bg_color=050816&hide_title=true&cache_seconds=86400" alt="GitHub stats" />
+          <img height="150" src="https://img.shields.io/badge/GitHub%20Stats-HomieB--tt-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/HomieB-tt">
-          <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomieB-tt&layout=compact&hide_border=true&title_color=22d3ee&text_color=cbd5e1&bg_color=050816&hide_title=true&cache_seconds=86400" alt="Top languages" />
+          <img height="150" src="https://img.shields.io/badge/Top%20Languages-HomieB--tt-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Top languages" />
       </a>
     </td>
   </tr>
