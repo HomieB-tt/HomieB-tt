@@ -37,20 +37,11 @@
 
 ### GitHub Activity
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/HomieB-tt">
-          <img height="150" src="https://img.shields.io/badge/GitHub%20Stats-HomieB--tt-22d3ee?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stats" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/HomieB-tt">
-          <img height="150" src="https://img.shields.io/badge/Top%20Languages-HomieB--tt-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Top languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/HomieB-tt/HomieB-tt?style=for-the-badge&logo=github&logoColor=white" alt="Repo stars" />
+  <img src="https://img.shields.io/github/forks/HomieB-tt/HomieB-tt?style=for-the-badge&logo=github&logoColor=white" alt="Repo forks" />
+  <img src="https://img.shields.io/github/followers/HomieB-tt?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+</div>
 
 ### Contribution Streak
 
