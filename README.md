@@ -21,24 +21,24 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=building+clean%2C+fast%2C+resilient+systems;flutter+%2B+swift+%2B+kotlin+%2B+rust;shipping+production-grade+mobile+apps;zero-trust+mindset+%7C+clean+architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=640&lines=building+clean%2C+fast%2C+resilient+systems;flutter+%2B+swift+%2B+kotlin+%2B+rust;shipping+production-grade+mobile+apps;zero-trust+mindset+%7C+clean+architecture" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/HomieB-tt" title="GitHub Profile">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-HomieB--tt-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-HomieB--tt-000000?style=for-the-badge&logo=github&logoColor=FF10F0&labelColor=000000" />
 </a>
 <a href="https://homieb-tt.github.io/homieb-tt-portfolio/" title="Portfolio Site">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit__site-000000?style=for-the-badge&logo=githubpages&logoColor=00FF41&labelColor=000000" />
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit__site-000000?style=for-the-badge&logo=githubpages&logoColor=FF10F0&labelColor=000000" />
 </a>
 <a href="https://www.linkedin.com/in/jeremiah-carlton-21b4962a7/" title="LinkedIn">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF10F0&labelColor=000000" />
 </a>
 <a href="https://x.com/Jerry_Lander17" title="X/Twitter">
-  <img alt="X" src="https://img.shields.io/badge/X-Jerry__Lander17-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=000000" />
+  <img alt="X" src="https://img.shields.io/badge/X-Jerry__Lander17-000000?style=for-the-badge&logo=x&logoColor=FF10F0&labelColor=000000" />
 </a>
 <a href="mailto:montanajeremy160@outlook.com" title="Email">
-  <img alt="Email" src="https://img.shields.io/badge/Email-message-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-message-000000?style=for-the-badge&logo=gmail&logoColor=FF10F0&labelColor=000000" />
 </a>
 
 </div>
@@ -57,30 +57,30 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/HomieB-tt/HomieB-tt?style=for-the-badge&logo=github&logoColor=00FF41&label=STARS&color=000000&labelColor=000000" alt="Repo stars" />
-<img src="https://img.shields.io/github/forks/HomieB-tt/HomieB-tt?style=for-the-badge&logo=github&logoColor=00FF41&label=FORKS&color=000000&labelColor=000000" alt="Repo forks" />
-<img src="https://img.shields.io/github/followers/HomieB-tt?style=for-the-badge&logo=github&logoColor=00FF41&label=FOLLOWERS&color=000000&labelColor=000000" alt="Followers" />
+<img src="https://img.shields.io/github/stars/HomieB-tt/HomieB-tt?style=for-the-badge&logo=github&logoColor=FF10F0&label=STARS&color=000000&labelColor=000000" alt="Repo stars" />
+<img src="https://img.shields.io/github/forks/HomieB-tt/HomieB-tt?style=for-the-badge&logo=github&logoColor=FF10F0&label=FORKS&color=000000&labelColor=000000" alt="Repo forks" />
+<img src="https://img.shields.io/github/followers/HomieB-tt?style=for-the-badge&logo=github&logoColor=FF10F0&label=FOLLOWERS&color=000000&labelColor=000000" alt="Followers" />
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=HomieB-tt&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11&currStreakNum=00FF41&sideNums=00FF41" alt="GitHub streak" />
+<img height="150" src="https://streak-stats.demolab.com/?user=HomieB-tt&theme=neon&hide_border=true&background=000000" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HomieB-tt&theme=github-dark-dimmed&hide_border=true&layout=compact&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HomieB-tt&theme=neon&hide_border=true&layout=compact&bg_color=000000" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HomieB-tt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=HomieB-tt&theme=neon&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 <br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=HomieB-tt&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=HomieB-tt&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 <br/><br/>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=HomieB-tt&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HomieB-tt&color=FF10F0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 
 </div>
@@ -94,69 +94,69 @@
 ### `./mobile/`
 Cross-platform and native mobile experiences.
 
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Swift_(Native)-000000?style=for-the-badge&logo=swift&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Swift_(Native)-000000?style=for-the-badge&logo=swift&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=FF10F0&labelColor=000000" />
 
 ### `./backend_and_web/`
 Scalable APIs, real-time systems, and performant web applications.
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-000000?style=for-the-badge&logo=rubyonrails&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Ruby_on_Rails-000000?style=for-the-badge&logo=rubyonrails&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=00F5FF&labelColor=000000" />
 
 ### `./data_and_ml/`
 Data persistence, geospatial querying, and applied ML.
 
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FF10F0&labelColor=000000" />
 
 ### `./languages/`
 Systems programming, scripting, and general-purpose development.
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=FF10F0&labelColor=000000" />
 
 ### `./devops_and_tooling/`
 Automation, orchestration, and infrastructure as code.
 
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Prettier-000000?style=for-the-badge&logo=prettier&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/Prettier-000000?style=for-the-badge&logo=prettier&logoColor=00F5FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=00F5FF&labelColor=000000" />
 
 ### `./security_and_design/`
 Privacy tooling and interface design.
 
-<img src="https://img.shields.io/badge/TOR-000000?style=for-the-badge&logo=torproject&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF41&labelColor=000000" />
-<img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/TOR-000000?style=for-the-badge&logo=torproject&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF10F0&labelColor=000000" />
+<img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=FF10F0&labelColor=000000" />
 
 </div>
 
@@ -263,9 +263,9 @@ Privacy tooling and interface design.
 <div align="center">
 
 <a href="https://open.spotify.com/search/Cyberpunk%20Edgerunners">
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-Cyberpunk_Vibes-000000?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=000000" />
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-Cyberpunk_Vibes-000000?style=for-the-badge&logo=spotify&logoColor=FF10F0&labelColor=000000" />
 </a>
-<img alt="Steam" src="https://img.shields.io/badge/Steam-off_duty-000000?style=for-the-badge&logo=steam&logoColor=00FF41&labelColor=000000" />
+<img alt="Steam" src="https://img.shields.io/badge/Steam-off_duty-000000?style=for-the-badge&logo=steam&logoColor=FF10F0&labelColor=000000" />
 
 <p>
   <code>&gt; building with purpose, coding with precision, shipping with confidence_</code>
