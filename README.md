@@ -41,6 +41,14 @@
   <img alt="Email" src="https://img.shields.io/badge/Email-message-000000?style=for-the-badge&logo=gmail&logoColor=FF10F0&labelColor=000000" />
 </a>
 
+<br/><br/>
+
+<a href="#-command-center">⌘ command center</a> ·
+<a href="#-featured-projects">projects</a> ·
+<a href="#-tech-stack">stack</a> ·
+<a href="#-current-focus">focus</a> ·
+<a href="#-connect">connect</a>
+
 </div>
 
 <br/>
@@ -51,9 +59,44 @@
 + decrypting bio ...................... OK
 ```
 
+<a id="-command-center"></a>
+## `$ ./command-center`
+
+<div align="center">
+
+<a href="#-live-stats">📊 `view_stats`</a> ·
+<a href="#-tech-stack">🧰 `inspect_stack`</a> ·
+<a href="#-featured-projects">🚀 `launch_projects`</a> ·
+<a href="#-current-focus">🎯 `current_focus`</a> ·
+<a href="#-connect">📡 `ping_jeremiah`</a>
+
+</div>
+
+<details>
+<summary><code>./help --interactive</code> (click to expand)</summary>
+
+<br/>
+
+Use the command links above to jump around, or open the panels below for a
+quick scan without scrolling through the full profile.
+
+| Command | Opens |
+|:--|:--|
+| `view_stats` | GitHub activity, languages, and achievements |
+| `inspect_stack` | Tools and technologies grouped by discipline |
+| `launch_projects` | Selected production and learning projects |
+| `current_focus` | What is being built right now |
+| `ping_jeremiah` | Social links and collaboration channels |
+
+</details>
+
 ---
 
+<a id="-live-stats"></a>
 ## `$ cat live_stats.log`
+
+<details>
+<summary>📊 Expand live GitHub metrics</summary>
 
 <div align="center">
 
@@ -85,8 +128,11 @@
 
 </div>
 
+</details>
+
 ---
 
+<a id="-tech-stack"></a>
 ## `$ ls -la ./tech_stack/`
 
 <div align="center">
@@ -162,6 +208,7 @@ Privacy tooling and interface design.
 
 ---
 
+<a id="-featured-projects"></a>
 ## `$ git log --oneline --graph featured_projects`
 
 <div align="center">
@@ -177,6 +224,7 @@ Privacy tooling and interface design.
 
 ---
 
+<a id="-current-focus"></a>
 ## `$ tail -f current_focus.log`
 
 <div align="center">
@@ -209,14 +257,7 @@ Privacy tooling and interface design.
 
 ---
 
-## `$ ./scripts/contribution_grid.sh`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HomieB-tt/HomieB-tt/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" width="100%" />
-</div>
-
----
-
+<a id="-connect"></a>
 ## `$ ping jeremiah`
 
 <div align="center">
